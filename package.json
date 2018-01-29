@@ -1,23 +1,17 @@
 {
-  "name": "bower-to-yarn",
-  "version": "1.0.4",
-  "description": "Convert bower projects to yarn",
-  "keywords": [
-    "bower",
-    "yarn",
-    "convert"
-  ],
+  "name": "bowerYarn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/DinkDonk/bower-to-yarn.git"
+    "url": "https://github.com/shamilsherhan/bowerYarn.git"
   },
-  "bugs": "https://github.com/DinkDonk/bower-to-yarn/issues",
-  "main": "index.js",
+  "bugs": "https://github.com/shamilsherhan/bowerYarn/issues",
   "bin": {
     "bower-to-yarn": "./index.js"
   },
-  "author": "Rune Warhuus <rune@dinkdonk.no>",
-  "license": "MIT",
+  "author": "Shamil Sherhan",
   "dependencies": {
     "chalk": "^2.3.0",
     "js-yaml": "^3.10.0",
