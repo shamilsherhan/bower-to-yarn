@@ -153,11 +153,11 @@ readFile(argv.bowerFile, 'utf8')
 		return writeFile(argv.packageFile, JSON.stringify(data, null, 2));
 	});
 })
-.then(() => {
-	displayMessage('clean-up', `Removing ${argv.bowerFile}`);
+//.then(() => {
+//	displayMessage('clean-up', `Removing ${argv.bowerFile}`);
 
-	return unlink(argv.bowerFile);
-})
+//	return unlink(argv.bowerFile);
+//})
 .then(() => {
 	console.log('');
 
