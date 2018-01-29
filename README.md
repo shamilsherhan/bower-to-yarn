@@ -1,15 +1,15 @@
-Bower to yarn
+Bower to Yarn
 =============
 
 A simple tool for moving bower dependencies to yarn or npm.  
-Made for my own special use-case. Maybe it will help you to? :tada:
+Forked from https://github.com/DinkDonk/bower-to-yarn for personal use. 
 
 ---
 
 ### Installation
 
 ```bash
-$ yarn global add bower-to-yarn
+$ yarn global add bowerYarn
 ```
 
 ### Usage
@@ -17,7 +17,7 @@ $ yarn global add bower-to-yarn
 In the root of your chosen project:
 
 ```bash
-$ bower-to-yarn
+$ bowerYarn
 ```
 
 ### Options
