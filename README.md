@@ -1,4 +1,4 @@
-Bower to Yarn
+Bower -> Yarn
 =============
 
 A simple tool for moving bower dependencies to yarn or npm.  
