@@ -5,9 +5,9 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shamilsherhan/bowerYarn.git"
+    "url": "https://github.com/shamilsherhan/boweryarn.git"
   },
-  "bugs": "https://github.com/shamilsherhan/bowerYarn/issues",
+  "bugs": "https://github.com/shamilsherhan/boweryarn/issues",
   "bin": {
     "bower-to-yarn": "./index.js"
   },
