@@ -9,7 +9,7 @@
   },
   "bugs": "https://github.com/shamilsherhan/boweryarn/issues",
   "bin": {
-    "bower-to-yarn": "./index.js"
+    "boweryarn": "./index.js"
   },
   "author": "Shamil Sherhan",
   "dependencies": {
