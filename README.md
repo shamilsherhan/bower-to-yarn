@@ -9,7 +9,7 @@ Forked from https://github.com/DinkDonk/bower-to-yarn for personal use.
 ### Installation
 
 ```bash
-$ yarn global add bowerYarn
+$ yarn global add boweryarn
 ```
 
 ### Usage
@@ -17,7 +17,7 @@ $ yarn global add bowerYarn
 In the root of your chosen project:
 
 ```bash
-$ bowerYarn
+$ boweryarn
 ```
 
 ### Options
